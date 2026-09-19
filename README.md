@@ -167,13 +167,12 @@ the final model because it:
 
 - Performs close to the top model on every metric.
 - Exposes built-in `feature_importances_`, making it far easier to explain
-  *why* it made a given prediction — valuable for an interview setting.
+  *why* it made a given prediction.
 - Is simple to reason about and describe end-to-end (a collection of
   decision trees) compared to a boosting algorithm.
 
 This trade-off (giving up ~1 point of ROC AUC for materially better
-explainability) is a reasonable, defensible choice to walk through in an
-interview.
+explainability) is a reasonable, defensible choice.
 
 ## Evaluation Metrics — Why Not Just Accuracy?
 
