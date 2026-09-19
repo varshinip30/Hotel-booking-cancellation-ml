@@ -1,0 +1,42 @@
+feature,importance
+lead_time,0.18219314966186578
+total_of_special_requests,0.13407761357145498
+market_segment_Online TA,0.11830137966326791
+required_car_parking_spaces,0.09779410819804649
+deposit_type_Non Refund,0.054876649574058224
+previous_cancellations,0.0532780809254478
+adr,0.05299307105444827
+customer_type_Transient,0.03875235719945627
+deposit_type_No Deposit,0.03598219605951245
+market_segment_Offline TA/TO,0.03549877755405194
+booking_changes,0.030103259734102383
+total_stay,0.025873002556164676
+customer_type_Transient-Party,0.024541986351860844
+stays_in_week_nights,0.01781955188139646
+market_segment_Direct,0.015919296621763827
+total_guests,0.013874578025674754
+adults,0.007854105506205501
+stays_in_weekend_nights,0.007517610151114939
+hotel_Resort Hotel,0.0069357094966590125
+hotel_City Hotel,0.006804848607015456
+children,0.005318640441076759
+market_segment_Corporate,0.004955122737569608
+market_segment_Groups,0.004871282878633923
+customer_type_Contract,0.003055135831511631
+arrival_date_month_August,0.0024851278126323292
+arrival_date_month_December,0.0019374528261441159
+arrival_date_month_July,0.0018590535457147616
+arrival_date_month_March,0.0016751156125340352
+arrival_date_month_April,0.0015445409388624848
+arrival_date_month_September,0.001505080170864509
+arrival_date_month_June,0.0014848837087805184
+arrival_date_month_October,0.0014503485479199683
+arrival_date_month_February,0.0014309768521548632
+arrival_date_month_May,0.0013764685761506804
+arrival_date_month_November,0.001318359393428948
+arrival_date_month_January,0.0012236088694838729
+deposit_type_Refundable,0.0005079842920793862
+customer_type_Group,0.00048506851393404366
+market_segment_Complementary,0.0003196554447082287
+market_segment_Aviation,0.00020476061224724236
+market_segment_Undefined,0.0
