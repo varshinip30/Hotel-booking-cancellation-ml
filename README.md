@@ -1,8 +1,14 @@
 # Hotel Booking Cancellation Prediction System
 
-A complete, interview-ready machine learning project that predicts whether a
+A machine learning project that predicts whether a
 hotel booking will be cancelled, deployed as an interactive Streamlit web
 application.
+
+##  Live Demo
+
+Try the deployed application here:
+
+ **[Launch Hotel Booking Cancellation Predictor](https://hotel-booking-cancellation-ml-4djqhdcgu7mh3b2ihsucyl.streamlit.app/)**
 
 ## Problem Statement
 
